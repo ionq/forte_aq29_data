@@ -1,0 +1,259 @@
+,jobid,app_key,app_circuit_index,repetition_index,circuit_width,num_2q_gates,total_shots,observed_fidelity,simulated_fidelity
+0,25db7575-6454-4683-bb9f-7ea1a1bbd760,Benchmark Results - Amplitude Estimation - Qiskit,0,0,4,82,2500,0.9966959649665109,0.994190246767376
+1,ba4b029c-eb58-47a8-99a9-6e6cf67625d0,Benchmark Results - Amplitude Estimation - Qiskit,0,1,4,82,2500,0.9986142396683032,0.994190246767376
+2,ac894dd7-d0f9-4615-9bca-facea2184f43,Benchmark Results - Amplitude Estimation - Qiskit,0,2,4,82,2500,0.9990504583706942,0.994190246767376
+3,a09bbe0e-add7-4154-ab06-7f748739c67d,Benchmark Results - Amplitude Estimation - Qiskit,1,0,4,88,2500,1.0,1.0
+4,14bd7fa8-d325-4d09-9808-4613fcf48f08,Benchmark Results - Amplitude Estimation - Qiskit,2,0,5,188,2500,0.9568299381023825,0.9888076922471659
+5,39849c43-adcd-4483-b046-a876f90489a2,Benchmark Results - Amplitude Estimation - Qiskit,2,1,5,188,2500,0.9717802878459422,0.9888076922471659
+6,3e48ff7d-0d16-4f7b-b017-5286dbd99616,Benchmark Results - Amplitude Estimation - Qiskit,3,0,5,202,2500,0.8969371031623011,0.9895898176467799
+7,6cca234f-b1e4-4a1b-9042-9f775bfbe6f1,Benchmark Results - Amplitude Estimation - Qiskit,3,1,5,202,2500,0.9257157445169921,0.9895898176467799
+8,2406a009-4f0a-4939-a840-9157685013bc,Benchmark Results - Amplitude Estimation - Qiskit,4,0,6,426,2500,0.9936,1.0
+9,5f3a6527-44a0-446a-a0e0-9c8a1dc0b25d,Benchmark Results - Amplitude Estimation - Qiskit,5,0,6,426,2500,0.9279804002839266,0.9798506678600355
+10,cf989da4-a0ff-401d-90ac-bf4cfb3493db,Benchmark Results - Amplitude Estimation - Qiskit,6,0,6,426,2500,0.9545813465231225,0.9806844944284985
+11,d2cfcc37-c4f5-4c81-9558-4deeb14bdb8c,Benchmark Results - Amplitude Estimation - Qiskit,7,0,6,426,2500,0.5604,1.0
+12,65488f52-4472-43d8-8e61-af077ad0bffc,Benchmark Results - Amplitude Estimation - Qiskit,7,1,6,426,2500,0.7908000000000001,1.0
+13,90876381-b772-4696-94f4-29dc48d6136f,Benchmark Results - Amplitude Estimation - Qiskit,7,2,6,426,2500,0.9211999999999999,1.0
+14,f42e0fa0-e367-40b6-a211-03c1733e5c2b,Benchmark Results - Amplitude Estimation - Qiskit,8,0,6,426,2500,0.4368713664075203,0.9542037625899089
+15,2af96585-494f-4598-ae7c-2892cb4909ae,Benchmark Results - Amplitude Estimation - Qiskit,8,1,6,426,2500,0.7572930435324408,0.9542037625899089
+16,91e9e5de-06d9-489a-b7ca-3a71362eed65,Benchmark Results - Amplitude Estimation - Qiskit,9,0,6,426,2500,0.6331019879907199,0.9846135924458881
+17,0ddce5a0-2566-436e-8682-e97370c543b7,Benchmark Results - Amplitude Estimation - Qiskit,9,1,6,426,2500,0.5559013869256804,0.9846135924458881
+18,0af9c2cb-2663-4e32-82e4-05d6d953aff5,Benchmark Results - Amplitude Estimation - Qiskit,10,0,7,868,2500,0.3011157169573784,0.9933026254283776
+19,4b67851f-ab27-4ea2-840d-7b419a66bdfd,Benchmark Results - Amplitude Estimation - Qiskit,10,1,7,868,2500,0.030664303318763873,0.9933026254283776
+20,7a20a54a-9407-45cb-9c56-015640498bd3,Benchmark Results - Amplitude Estimation - Qiskit,11,0,7,868,2500,0.0028934234897556904,0.9899826452990694
+21,7183e456-635c-4838-8bdb-b818e9bd9d68,Benchmark Results - Amplitude Estimation - Qiskit,12,0,7,868,2500,0.13873457917208531,0.9873745206964237
+22,f03d2a44-68bb-4664-91f9-4efdff766da7,Benchmark Results - Phase Estimation - Qiskit,0,0,5,18,2500,1.0,1.0
+23,d123a2f1-b007-4ff2-99d8-2161c1c17464,Benchmark Results - Phase Estimation - Qiskit,1,0,5,18,2500,1.0,1.0
+24,58fffac4-30ec-4cfc-af6e-00da77097f51,Benchmark Results - Phase Estimation - Qiskit,2,0,5,20,2500,1.0,1.0
+25,0059a049-bf2a-4279-a813-363481ca96af,Benchmark Results - Phase Estimation - Qiskit,3,0,6,24,2500,1.0,1.0
+26,076d01a0-79fd-459f-bf73-b7c8ae7b7caf,Benchmark Results - Phase Estimation - Qiskit,3,1,6,24,2500,1.0,1.0
+27,a55ab628-085a-4f58-ba1a-33227ba0e71d,Benchmark Results - Phase Estimation - Qiskit,4,0,6,28,2500,1.0,1.0
+28,45f92744-c6e1-4812-bd60-8ea3813724f5,Benchmark Results - Phase Estimation - Qiskit,4,1,6,28,2500,1.0,1.0
+29,4a7e7e49-1b14-48c8-b816-8be2ed13bd2b,Benchmark Results - Phase Estimation - Qiskit,5,0,6,30,2500,1.0,1.0
+30,eecff4d4-c711-4598-91ca-602b4d8320df,Benchmark Results - Phase Estimation - Qiskit,5,1,6,30,2500,1.0,1.0
+31,d2d16145-2716-4c4c-8480-1c192be52816,Benchmark Results - Phase Estimation - Qiskit,6,0,7,40,2500,1.0,1.0
+32,5511288a-bbed-4da8-b08e-5561ea8e947a,Benchmark Results - Phase Estimation - Qiskit,6,1,7,40,2500,1.0,1.0
+33,9bcaf3b1-7de2-492b-8e09-087f56d5f96b,Benchmark Results - Phase Estimation - Qiskit,7,0,7,42,2500,1.0,1.0
+34,6a86a692-b44f-4b2a-a3b0-812124aab04d,Benchmark Results - Phase Estimation - Qiskit,7,1,7,42,2500,1.0,1.0
+35,e1683141-1b65-4d99-a24b-6f7e95e6ae98,Benchmark Results - Phase Estimation - Qiskit,8,0,7,40,2500,1.0,1.0
+36,16a7dcea-59e4-4c02-bef7-599247d4f20c,Benchmark Results - Phase Estimation - Qiskit,8,1,7,40,2500,1.0,1.0
+37,c0780a5e-f5af-441f-8c19-444117a37e6e,Benchmark Results - Phase Estimation - Qiskit,9,0,8,56,2500,1.0,1.0
+38,0b2627fb-db2b-44ff-b7b7-2df155a34568,Benchmark Results - Phase Estimation - Qiskit,9,1,8,56,2500,1.0,1.0
+39,cd4b17e9-69e5-4340-aeb8-e4b9f1252a6e,Benchmark Results - Phase Estimation - Qiskit,10,0,8,56,2500,1.0,1.0
+40,d71fec63-d148-4bdf-8777-3dc43a6f52a4,Benchmark Results - Phase Estimation - Qiskit,10,1,8,56,2500,1.0,1.0
+41,f4c40c6c-90c5-486d-9fbe-33478f04b8f3,Benchmark Results - Phase Estimation - Qiskit,11,0,8,56,2500,0.9996,1.0
+42,096e7bbc-b2d4-4ebe-bdb2-ad27370bfdf7,Benchmark Results - Phase Estimation - Qiskit,11,1,8,56,2500,1.0,1.0
+43,e9de9e91-82fa-441b-9654-9ba9e574db64,Benchmark Results - Phase Estimation - Qiskit,12,0,9,70,2500,1.0,1.0
+44,8999b698-40bf-440e-8658-da6d416ff461,Benchmark Results - Phase Estimation - Qiskit,13,0,9,66,2500,1.0,1.0
+45,7461c43f-fa9c-4b63-a645-0675139dfc4e,Benchmark Results - Phase Estimation - Qiskit,14,0,9,66,2500,1.0,1.0
+46,d9ba3ffb-daae-4f67-9ef2-9100b5b117a5,Benchmark Results - Phase Estimation - Qiskit,15,0,10,88,2500,1.0,1.0
+47,baff11b6-63f0-4f3a-871d-86202544bdb4,Benchmark Results - Phase Estimation - Qiskit,15,1,10,88,2500,1.0,1.0
+48,41c2a618-c196-47c9-932b-78d82aed4547,Benchmark Results - Phase Estimation - Qiskit,16,0,10,90,2500,1.0,1.0
+49,ccc698ee-f0e2-4c5b-864d-49690b571f44,Benchmark Results - Phase Estimation - Qiskit,16,1,10,90,2500,1.0,1.0
+50,9ac35de1-764d-4904-8781-e705d706ebd9,Benchmark Results - Phase Estimation - Qiskit,17,0,10,88,2500,0.9996,1.0
+51,eb3ddd73-d9d9-45b3-9e87-c001a96594cc,Benchmark Results - Phase Estimation - Qiskit,17,1,10,88,2500,1.0,1.0
+52,b5c50671-6f6b-48f4-bb51-50765ecf687a,Benchmark Results - Phase Estimation - Qiskit,18,0,11,110,2500,1.0,1.0
+53,1f27a957-aeed-4983-bc9b-600692fd8573,Benchmark Results - Phase Estimation - Qiskit,19,0,11,106,2500,1.0,1.0
+54,abc9d9ef-adf1-4504-885c-ef598be53bee,Benchmark Results - Phase Estimation - Qiskit,20,0,11,110,2500,1.0,1.0
+55,9169cc18-d731-482c-af9d-6d6a70447ce2,Benchmark Results - Phase Estimation - Qiskit,21,0,12,132,2500,1.0,1.0
+56,8b320eed-6b17-4a25-aa84-8ac301d4f59f,Benchmark Results - Phase Estimation - Qiskit,22,0,12,132,2500,1.0,1.0
+57,706a0b37-1e20-4daa-adb9-d47cca16f1c3,Benchmark Results - Phase Estimation - Qiskit,23,0,12,132,2500,1.0,1.0
+58,87469298-3060-4170-80af-85b4a7ca3602,Benchmark Results - Phase Estimation - Qiskit,24,0,13,152,2500,1.0,1.0
+59,1a46183a-8b53-45f9-898b-e135356a1f74,Benchmark Results - Phase Estimation - Qiskit,25,0,13,154,2500,1.0,1.0
+60,6375c3ff-2a41-4fbe-82fd-c44ecf78a414,Benchmark Results - Phase Estimation - Qiskit,26,0,13,156,2500,1.0,1.0
+61,fe80aa3b-5541-45ac-ba91-1ac496b047d3,Benchmark Results - Phase Estimation - Qiskit,27,0,14,182,2500,1.0,1.0
+62,4f6d8ff7-1cec-4e3b-8c8d-2053dffedcf5,Benchmark Results - Phase Estimation - Qiskit,28,0,14,180,2500,1.0,1.0
+63,70bc64af-6f03-4450-ba9d-aa472c755555,Benchmark Results - Phase Estimation - Qiskit,29,0,14,182,2500,1.0,1.0
+64,ce769cbf-cef0-4053-8820-53967d3c17cf,Benchmark Results - Phase Estimation - Qiskit,30,0,15,206,2500,1.0,1.0
+65,cdcd5876-1a03-4ca4-8496-ecf7549ee85d,Benchmark Results - Phase Estimation - Qiskit,30,1,15,206,2500,1.0,1.0
+66,f57e7650-bbea-45ce-9244-af33a7fde8c4,Benchmark Results - Phase Estimation - Qiskit,31,0,15,210,2500,0.9956,1.0
+67,5c42914a-3630-4a42-9cb3-b19d8169d659,Benchmark Results - Phase Estimation - Qiskit,31,1,15,210,2500,1.0,1.0
+68,7650d8fd-d03c-497f-a02d-36aaa9fbcb6b,Benchmark Results - Phase Estimation - Qiskit,32,0,15,208,2500,1.0,1.0
+69,04b4fdbe-466d-49ea-8622-669882dae4d7,Benchmark Results - Phase Estimation - Qiskit,32,1,15,208,2500,1.0,1.0
+70,c26d15f7-409a-43d7-8606-380efbd98a2d,Benchmark Results - Phase Estimation - Qiskit,33,0,16,232,2500,1.0,1.0
+71,d9ac57b5-429b-4bec-99ad-1eef5767e411,Benchmark Results - Phase Estimation - Qiskit,34,0,16,240,2500,1.0,1.0
+72,dc69cb7b-2b31-4c17-9879-be636473bf66,Benchmark Results - Phase Estimation - Qiskit,35,0,16,238,2500,1.0,1.0
+73,dbc21aca-1186-4442-befa-a2a51eb96829,Benchmark Results - Phase Estimation - Qiskit,36,0,17,272,2500,1.0,1.0
+74,9c0ad7fe-dc4c-4100-865a-a44b89143895,Benchmark Results - Phase Estimation - Qiskit,37,0,17,272,2500,0.9956,1.0
+75,7bd9d7f8-c630-4a34-b5d8-32a623f184a0,Benchmark Results - Phase Estimation - Qiskit,38,0,17,272,2500,1.0,1.0
+76,0e50c2e3-8e09-4908-bffd-0fbec3390625,Benchmark Results - Phase Estimation - Qiskit,39,0,18,306,2500,0.9992000000000001,1.0
+77,33152ecc-5118-4161-84bf-656ec5f50ad3,Benchmark Results - Phase Estimation - Qiskit,40,0,18,304,2500,1.0,1.0
+78,e826eb44-ad3a-480c-a564-8da5e0f93b97,Benchmark Results - Phase Estimation - Qiskit,41,0,18,306,2500,1.0,1.0
+79,0d24a4c5-9e99-4fb8-b468-6768c39ec28e,Benchmark Results - Phase Estimation - Qiskit,42,0,19,342,2500,1.0,1.0
+80,01440d21-3fa5-47ac-ac4d-7c9f5baa874e,Benchmark Results - Phase Estimation - Qiskit,43,0,19,342,2500,1.0,1.0
+81,52854276-ace1-40b0-83f6-7256b10918a7,Benchmark Results - Phase Estimation - Qiskit,44,0,19,340,2500,1.0,1.0
+82,553514ee-1618-4670-900d-96984041fd25,Benchmark Results - Phase Estimation - Qiskit,45,0,20,378,2500,0.9975999999999999,1.0
+83,659937aa-e10c-4cb5-8237-8ca2d6f5091a,Benchmark Results - Phase Estimation - Qiskit,46,0,20,380,2500,1.0,1.0
+84,d92a8262-1658-47df-81fa-33fb1d07de69,Benchmark Results - Phase Estimation - Qiskit,47,0,20,380,2500,1.0,1.0
+85,f29809dd-2fab-47e3-87ac-683acd736d5f,Benchmark Results - Phase Estimation - Qiskit,48,0,21,420,2500,1.0,1.0
+86,115d1350-ed3a-4907-af40-0943a433a880,Benchmark Results - Phase Estimation - Qiskit,48,1,21,420,2500,1.0,1.0
+87,a61589c4-254d-46dc-b9e5-7c453b525da1,Benchmark Results - Phase Estimation - Qiskit,49,0,21,420,2500,1.0,1.0
+88,8df16d71-cf79-48b2-8b8b-efd749095119,Benchmark Results - Phase Estimation - Qiskit,50,0,21,420,2500,1.0,1.0
+89,9ed895a4-c47a-47b2-81c3-f55a8955fef8,Benchmark Results - Phase Estimation - Qiskit,51,0,22,462,2500,1.0,1.0
+90,38128014-6396-456b-8123-6b6d168ef6dd,Benchmark Results - Phase Estimation - Qiskit,52,0,22,462,2500,1.0,1.0
+91,3543fa6c-7de3-4183-8b9f-80af4ca06ea0,Benchmark Results - Phase Estimation - Qiskit,53,0,22,462,2500,1.0,1.0
+92,ab5b92ed-a7e9-4f5b-b3cf-47ad7c587fe6,Benchmark Results - Phase Estimation - Qiskit,54,0,23,506,2500,1.0,1.0
+93,26bf5261-3d49-41ba-a35e-cf029e8cf3e0,Benchmark Results - Phase Estimation - Qiskit,55,0,23,506,2500,1.0,1.0
+94,6f102672-1d51-4920-bbc0-2f761caddb15,Benchmark Results - Phase Estimation - Qiskit,56,0,23,506,2500,0.9932,1.0
+95,0d069c49-e320-4322-94fe-859e84a95cda,Benchmark Results - Phase Estimation - Qiskit,57,0,24,552,2500,1.0,1.0
+96,477440b3-f2f5-4aad-822a-106a6bd75ec3,Benchmark Results - Phase Estimation - Qiskit,58,0,24,552,2500,1.0,1.0
+97,f1327e6c-6f03-4364-923e-1240f8a69859,Benchmark Results - Phase Estimation - Qiskit,59,0,24,552,2500,1.0,1.0
+98,fd4c1bf4-121d-4471-bbc7-dad5bb433c29,Benchmark Results - Phase Estimation - Qiskit,60,0,25,600,2500,1.0,1.0
+99,cda95315-4802-47a8-8ba7-5002b89c130e,Benchmark Results - Phase Estimation - Qiskit,61,0,25,600,2500,1.0,1.0
+100,e6639fe9-d2bf-469d-8892-c0d3430d7f3c,Benchmark Results - Phase Estimation - Qiskit,62,0,25,600,2500,1.0,1.0
+101,b4f39f6b-2c3a-4b93-b039-6a66c2d42a92,Benchmark Results - Phase Estimation - Qiskit,63,0,26,650,2500,1.0,1.0
+102,0e3f637d-c2f6-4da8-ba27-6567cab5430a,Benchmark Results - Phase Estimation - Qiskit,64,0,26,650,2500,1.0,1.0
+103,2ef3e573-482c-4808-911d-ccf7cf758da2,Benchmark Results - Phase Estimation - Qiskit,65,0,27,702,2500,0.9960000000000001,1.0
+104,3c2af07f-3712-4822-b6ab-cdc0342954ad,Benchmark Results - Phase Estimation - Qiskit,66,0,27,702,2500,1.0,1.0
+105,336a6159-00f7-41cc-8248-cbac0cd10390,Benchmark Results - Phase Estimation - Qiskit,67,0,27,702,2500,1.0,1.0
+106,81240b73-a963-42b8-a1fe-1900022f0260,Benchmark Results - Phase Estimation - Qiskit,68,0,28,756,2500,1.0,1.0
+107,c29ed297-0281-4c08-a386-0ce1408c1241,Benchmark Results - Phase Estimation - Qiskit,69,0,28,756,2500,1.0,1.0
+108,d00f52fa-cb8e-48a3-9c42-1a2aa85fdf18,Benchmark Results - Phase Estimation - Qiskit,70,0,28,756,2500,1.0,1.0
+109,eae5ce5b-0d1b-4070-9a16-984122e37031,Benchmark Results - Phase Estimation - Qiskit,71,0,29,812,2500,1.0,1.0
+110,6ab95097-1336-42ba-985a-9c5574ce4e61,Benchmark Results - Phase Estimation - Qiskit,72,0,29,812,2500,1.0,1.0
+111,ef880505-3d47-4af5-92f4-b2885f11e9dd,Benchmark Results - Phase Estimation - Qiskit,73,0,29,812,2500,1.0,1.0
+112,bddc2ea2-e8a6-433e-be58-fbd17b6c2627,Benchmark Results - Phase Estimation - Qiskit,74,0,30,870,2500,1.0,1.0
+113,4234f3b3-04b9-4882-9343-a38b8cadd5da,Benchmark Results - Phase Estimation - Qiskit,74,1,30,870,2500,1.0,1.0
+114,7bed9093-47ce-4abf-9420-084c4e4e8c52,Benchmark Results - Phase Estimation - Qiskit,75,0,30,870,2500,0.3490603200000002,0.9996
+115,c416753f-80fe-4857-b7a3-ca82fed1fb03,Benchmark Results - Phase Estimation - Qiskit,75,1,30,870,2500,0.9996,0.9996
+116,5e97724e-fc4b-4b37-843f-b2719dc08eaa,Benchmark Results - Phase Estimation - Qiskit,76,0,30,870,2500,0.34892064000000006,0.9992000000000001
+117,9fc884b8-ee9b-43ff-8eac-663c9061cf41,Benchmark Results - Phase Estimation - Qiskit,76,1,30,870,2500,0.9992000000000001,0.9992000000000001
+118,e6aeaa1a-c760-4c32-ac24-7601742f82d3,Benchmark Results - Hamiltonian Simulation - Qiskit,0,0,4,27,2500,0.9953956423139222,0.9953956423139222
+119,c20c628f-151f-4147-8a4a-72fa5a3f1807,Benchmark Results - Hamiltonian Simulation - Qiskit,1,0,5,36,2500,0.9908520660785052,0.9908520660785052
+120,5aa331e3-f193-4b99-9d07-bf35515b1787,Benchmark Results - Hamiltonian Simulation - Qiskit,2,0,6,45,2500,0.9846351821083079,0.9846351821083079
+121,1ef5e601-7f35-4e7d-b15b-051240e6da44,Benchmark Results - Hamiltonian Simulation - Qiskit,3,0,7,54,2500,0.9800343652979978,0.9800343652979978
+122,98990dac-d1a7-42b2-a79b-29e069c9734e,Benchmark Results - Hamiltonian Simulation - Qiskit,4,0,8,63,2500,0.9772215299054798,0.9772215299054798
+123,d3dc0e50-7cce-47d4-a11a-a44102ed6f48,Benchmark Results - Hamiltonian Simulation - Qiskit,5,0,9,72,2500,0.9760093386798294,0.9760093386798294
+124,2299285a-0a37-4cba-9e8b-7dd779257a75,Benchmark Results - Hamiltonian Simulation - Qiskit,6,0,10,81,2500,0.972660723847014,0.972660723847014
+125,9c612201-647b-472d-950d-5d22ba7354f3,Benchmark Results - Hamiltonian Simulation - Qiskit,7,0,11,90,2500,0.9680422599921765,0.9680422599921765
+126,ac38ab5b-3dac-4f8f-92d0-a56030be4a79,Benchmark Results - Hamiltonian Simulation - Qiskit,8,0,12,99,2500,0.9635622630877325,0.9635622630877325
+127,60a3f1bc-6936-4dfa-bf7f-e3e2f56e8a30,Benchmark Results - Hamiltonian Simulation - Qiskit,9,0,13,108,2500,0.9623596285555062,0.9623596285555062
+128,b37e1888-6a70-41f2-953d-1d9aec0831e4,Benchmark Results - Hamiltonian Simulation - Qiskit,10,0,14,117,2500,0.9595200686690962,0.9595200686690962
+129,08f64e02-4dcd-4db6-9e70-6054ddb38f87,Benchmark Results - Hamiltonian Simulation - Qiskit,11,0,15,126,2500,0.9560381398000631,0.9560381398000631
+130,9f5c402e-9a36-4b83-808d-38c0ef014ea0,Benchmark Results - Hamiltonian Simulation - Qiskit,12,0,16,135,2500,0.9531095941039032,0.9531095941039032
+131,b85dc270-293b-4b91-a34e-b37f297f32f4,Benchmark Results - Hamiltonian Simulation - Qiskit,13,0,17,144,2500,0.9498228466570545,0.9498228466570545
+132,394e9536-9f83-4519-b22a-9de1c74417e1,Benchmark Results - Hamiltonian Simulation - Qiskit,14,0,18,153,2500,0.940977902915589,0.940977902915589
+133,c692eb51-3c7e-4d13-bda8-6f3865f2462b,Benchmark Results - Hamiltonian Simulation - Qiskit,15,0,19,162,2500,0.9343347272421535,0.9343347272421535
+134,a84a965b-caab-4ec9-ab7d-b6fe91cbbb57,Benchmark Results - Hamiltonian Simulation - Qiskit,16,0,20,171,2500,0.9332557321577637,0.9332557321577637
+135,8eb7f3d3-2bdd-42c2-b43b-200d8a679f25,Benchmark Results - Hamiltonian Simulation - Qiskit,17,0,21,180,2500,0.9322324818498581,0.9322324818498581
+136,9176fc56-9b3b-4cd0-bb2b-b56f15db6a3d,Benchmark Results - Hamiltonian Simulation - Qiskit,18,0,22,189,2500,0.9305336205827259,0.9305336205827259
+137,1894eb04-24ed-4578-9b6e-5ac4d08ffd94,Benchmark Results - Hamiltonian Simulation - Qiskit,19,0,23,198,2500,0.9285646014468832,0.9285646014468835
+138,69a3b8c3-32c5-4505-bc3a-3fae6a23e2d4,Benchmark Results - Hamiltonian Simulation - Qiskit,20,0,24,207,2500,0.9190411249313923,0.9190411249313923
+139,c1e05202-d4bb-44ce-a915-25a70f78d8d6,Benchmark Results - Hamiltonian Simulation - Qiskit,21,0,25,216,2500,0.9130418004642256,0.9130418004642256
+140,4e8c2b6c-82a9-474f-bded-fef98a65fc17,Benchmark Results - Hamiltonian Simulation - Qiskit,22,0,26,225,2500,0.9048362524182987,0.9048362524182987
+141,abaabe8f-40df-44a4-ad93-ac8f54638748,Benchmark Results - Hamiltonian Simulation - Qiskit,23,0,27,234,2500,0.9032877369280975,0.9032877369280975
+142,97fe75ac-ca74-414b-bbe0-91aea0ef25ba,Benchmark Results - Hamiltonian Simulation - Qiskit,24,0,28,243,2500,0.9006762520671314,0.9006762520671314
+143,618ea39d-c207-4f85-80c3-9c22dcacdd6f,Benchmark Results - Hamiltonian Simulation - Qiskit,25,0,29,252,2500,0.8952,0.8952
+144,7c84d612-1208-4266-b6e8-e5978826acb6,Benchmark Results - VQE Simulation (1) - Qiskit,0,0,4,56,2500,0.8386628269784115,0.8534661237798369
+145,38f5ede2-e06c-4a17-bd14-82728a44df4d,Benchmark Results - VQE Simulation (1) - Qiskit,1,0,4,56,2500,0.9340679609540289,0.9189542381932336
+146,9a91334f-cdb4-4fb6-a37f-09d284ffbbe9,Benchmark Results - VQE Simulation (1) - Qiskit,2,0,4,56,2500,0.8641722722092738,0.8970742927655546
+147,4506e943-c65f-4a0c-953a-059e23cc4319,Benchmark Results - VQE Simulation (1) - Qiskit,3,0,6,272,2500,0.7975292272552829,0.758264214
+148,af733708-42dc-41a8-bf02-7247cffd2e77,Benchmark Results - VQE Simulation (1) - Qiskit,3,1,6,272,2500,0.7866710029610458,0.758264214
+149,3d7d12cd-3f71-465e-aa65-c266b8f70bca,Benchmark Results - VQE Simulation (1) - Qiskit,4,0,6,272,2500,0.7997424453248,0.803599724
+150,2fb84376-8854-446b-860d-621f628542ac,Benchmark Results - VQE Simulation (1) - Qiskit,4,1,6,272,2500,0.7970434278046639,0.803599724
+151,dcd34a29-09a8-482f-8ce3-6c2a8e910cc5,Benchmark Results - VQE Simulation (1) - Qiskit,5,0,6,272,2500,0.5557684437463449,0.5409442134755384
+152,5af15182-581d-4bde-941f-dd94097f2547,Benchmark Results - VQE Simulation (1) - Qiskit,5,1,6,272,2500,0.5051950818244826,0.5409442134755384
+153,a361b9be-9483-4890-b8bb-37ea1445ad65,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,0,0,4,24,2500,1.0,1.0
+154,1bb49172-8be3-4f18-8268-11406c189087,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,1,0,4,24,2500,1.0,1.0
+155,878001ef-4915-441a-a03b-d7340e39849e,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,2,0,4,24,2500,1.0,1.0
+156,725217df-8d67-4f09-84ac-15e66ea99a79,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,3,0,5,40,2500,1.0,1.0
+157,6ebc445b-373c-4f50-8a58-cd13f70a3e70,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,3,1,5,40,2500,1.0,1.0
+158,a83ba178-68c0-48e7-a8dc-ca449051e1eb,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,4,0,5,40,2500,1.0,1.0
+159,dac3bb86-fec4-45d1-83c0-76e7b1582674,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,4,1,5,40,2500,1.0,1.0
+160,70e57805-768a-4b22-bdd4-c351137f008f,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,5,0,5,40,2500,1.0,1.0
+161,da17d6b5-e4ad-4912-a24a-78dec8511d57,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,5,1,5,40,2500,1.0,1.0
+162,484e00ae-9a8b-4803-b07c-11556588d992,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,6,0,6,60,2500,1.0,1.0
+163,f743acda-040c-4146-9ec4-7cd135d51937,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,6,1,6,60,2500,1.0,1.0
+164,9608d4dd-f10b-4b56-9355-8ed65e24f6c0,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,7,0,6,60,2500,1.0,1.0
+165,5690ed3f-d416-4e37-9936-b0bfd43c79fa,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,7,1,6,60,2500,1.0,1.0
+166,1216bdb6-4309-43ae-8404-b266668c8b8e,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,8,0,6,60,2500,1.0,1.0
+167,175df558-93d2-4539-ae00-dff129b2d8d8,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,8,1,6,60,2500,1.0,1.0
+168,1034ff1c-cd15-4c46-9fda-5a12235c3822,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,9,0,7,84,2500,1.0,1.0
+169,4b1bf33c-95d7-4968-93fa-67d36378a915,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,10,0,7,84,2500,1.0,1.0
+170,36a159fb-818d-4b22-ad15-acea72f15903,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,11,0,7,84,2500,1.0,1.0
+171,b78c0733-1537-4173-b6cb-80962a07c97d,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,12,0,8,112,2500,1.0,1.0
+172,2b2d22af-1f1d-43f3-b837-deabf77caf44,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,13,0,8,112,2500,1.0,1.0
+173,d4c272e0-0dd5-48cd-a540-de6c05920e48,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,14,0,8,112,2500,1.0,1.0
+174,6391128e-728e-426a-b4d2-ebdfa60e45f2,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,15,0,9,144,2500,0.9968,1.0
+175,0ea8e8f5-afa4-49db-aaae-4574c7a852af,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,16,0,9,144,2500,1.0,1.0
+176,4edec367-9db1-4966-9b52-62b5350de65b,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,17,0,9,144,2500,0.9944000000000001,1.0
+177,36350230-c609-4eff-876e-9127d43eac02,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,18,0,10,180,2500,0.9939999999999999,1.0
+178,33a9218e-9f9f-4ded-bd02-47ea544b2a84,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,18,1,10,180,2500,0.9992000000000001,1.0
+179,4c7afa1f-a272-4832-8c71-68c91f79a4c7,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,19,0,10,180,2500,0.9927999999999999,1.0
+180,45dea620-8b12-486b-b526-4ad5676dbf08,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,19,1,10,180,2500,0.9952000000000001,1.0
+181,15933661-836a-425f-b2c3-ceeab7647542,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,20,0,10,180,2500,0.9956,1.0
+182,9f9f62bb-bed5-4a57-ab78-2d0e84878252,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,20,1,10,180,2500,0.9912000000000001,1.0
+183,8cba2d57-10e0-4822-ac71-59a261d1df0a,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,21,0,11,220,2500,0.9980000000000001,1.0
+184,21f6eb61-5a3d-4690-a783-ba2f46544039,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,22,0,11,220,2500,0.9992000000000001,1.0
+185,36d4027d-5f6a-4407-81f5-59892cb71455,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,23,0,11,220,2500,0.9984,1.0
+186,31f2afd8-2b2b-48d5-9f46-8d1bd52ba061,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,24,0,12,264,2500,1.0,1.0
+187,654c850a-c065-428b-a2b0-dbae1103e50c,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,25,0,12,264,2500,1.0,1.0
+188,f038a328-4c25-403e-a367-e637d87958cc,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,26,0,12,264,2500,0.9908,1.0
+189,8502bd0e-e4e5-4f97-a13e-5bc013970513,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,27,0,13,312,2500,0.9956,1.0
+190,292e6ebc-21de-460f-a825-e717a20a2f4d,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,28,0,13,312,2500,1.0,1.0
+191,9378fa02-f76e-431d-9142-d5bdec55f3f3,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,29,0,13,312,2500,1.0,1.0
+192,85fc5745-81cb-4236-b025-e9c7281e277c,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,30,0,14,364,2500,0.944,1.0
+193,af73c299-adec-49ec-807e-3cb1d9142f53,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,31,0,14,364,2500,1.0,1.0
+194,3c57014f-e114-45fc-b0a1-3c8dd49855c8,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,32,0,14,364,2500,1.0,1.0
+195,cf2ffb74-9cfd-4f25-98f7-27607eee6f05,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,33,0,15,420,2500,1.0,1.0
+196,d40e3574-6d00-4fa7-8bf7-f4cf7d4d8da9,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,34,0,15,420,2500,1.0,1.0
+197,e4a91cd7-40d5-4fc7-b01e-65671ba73084,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,35,0,15,420,2500,1.0,1.0
+198,3f9c491f-a4bb-4843-a141-93699d60bee9,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,36,0,16,480,2500,1.0,1.0
+199,c45a4010-5cac-4609-aab5-765d2b506c59,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,36,1,16,480,2500,1.0,1.0
+200,dded9949-4bc2-4d79-b02d-7673a2a04e74,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,37,0,16,480,2500,1.0,1.0
+201,0f92db7f-0644-4bed-81b0-42cc96bf5262,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,38,0,16,480,2500,1.0,1.0
+202,39760459-c5af-45e7-b7a7-d0a4eb0d49b0,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,39,0,16,480,2500,1.0,1.0
+203,ff31bf7b-53b9-415f-a2e9-92e7299db16a,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,39,1,16,480,2500,1.0,1.0
+204,16fcb72c-083a-4aff-93ba-946cfdf34853,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,40,0,16,480,2500,1.0,1.0
+205,6567e8f3-8de6-4654-aa94-6cd8496700a8,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,41,0,16,480,2500,0.9972000000000001,1.0
+206,8107961b-7633-4444-9463-a8c12fbee85c,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,42,0,17,544,2500,1.0,1.0
+207,dea1bf68-92e0-4885-ae7f-1f242065cd5c,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,43,0,17,544,2500,1.0,1.0
+208,91cfcaec-8470-4fc3-8925-09f89a2b3011,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,44,0,17,544,2500,1.0,1.0
+209,5dabedaf-59f9-4881-bb53-7c6e22dd3605,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,45,0,17,544,2500,1.0,1.0
+210,be00cda5-b9c8-49d2-b796-ba9748229e72,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,46,0,17,544,2500,1.0,1.0
+211,06334eb4-4cb7-42b5-ab2e-e8527d151796,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,47,0,17,544,2500,1.0,1.0
+212,2f4c8d55-9193-48f4-82b6-da2b35576bd0,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,48,0,18,612,2500,1.0,1.0
+213,935d9e37-7cc7-42b8-86d3-dbfaa599dfa9,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,49,0,18,612,2500,1.0,1.0
+214,25f7110e-0b86-46e2-83d7-6f154b22ed46,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,49,1,18,612,2500,1.0,1.0
+215,35e307ce-f185-405f-b809-7ebcd893f1bf,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,50,0,18,612,2500,1.0,1.0
+216,ba4b0783-6653-48ec-9685-ade50fef655c,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,51,0,18,612,2500,1.0,1.0
+217,ae412917-8e56-4d23-ac4e-ea05586d17d6,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,52,0,19,684,2500,1.0,1.0
+218,cb393fbb-e481-42e7-9942-78d9ca1be04d,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,53,0,19,684,2500,1.0,1.0
+219,f90c0f5a-ef5c-412d-bebc-871084da2d35,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,54,0,19,684,2500,1.0,1.0
+220,484179b1-af5e-4148-9847-44452b81ca8e,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,55,0,20,760,2500,1.0,1.0
+221,53d43c5c-98a1-427a-a63d-356c2601d44c,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,56,0,20,760,2500,0.9996,1.0
+222,2bb62d9f-0b4a-4931-9982-7ecaec7d3664,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,57,0,20,760,2500,0.9887999999999999,1.0
+223,16a1744b-4997-4e7e-9b76-1e90377a06e8,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,58,0,21,840,2500,1.0,1.0
+224,c356ffe6-0390-4128-925e-7e1f87dc9257,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,59,0,21,840,2500,0.9984,1.0
+225,3cc0ac34-588b-45d7-b167-6d4c82f2a797,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,60,0,21,840,2500,1.0,1.0
+226,64bbc1e5-41c7-4f7b-ba18-6c129cb67f7a,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,61,0,22,924,2500,0.9972000000000001,1.0
+227,554bb704-2231-445c-951f-3a996b32b360,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,62,0,22,924,2500,1.0,1.0
+228,9a5f0209-8b3a-45ba-bec8-5d3f0a354780,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,63,0,22,924,2500,1.0,1.0
+229,193b3151-373e-4d7b-8c1c-3bb1698df3f0,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,64,0,23,1012,2500,1.0,1.0
+230,d35b1d83-8210-4bff-8b0b-7f0266aa2cd4,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,65,0,23,1012,2500,1.0,1.0
+231,05b5e840-ad18-4cc1-972a-c21e3bd840bb,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,66,0,23,1012,2500,1.0,1.0
+232,a8f1141f-f881-46df-8726-0113fdfaa1eb,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,67,0,24,1104,2500,1.0,1.0
+233,753ab8fa-bc94-4ef7-bcf6-65c0814bc63d,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,68,0,24,1104,2500,1.0,1.0
+234,6fb82d55-e44b-4b04-b3b1-025d041ff470,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,69,0,24,1104,2500,1.0,1.0
+235,e1c7b173-473e-45af-9dde-2f6fd1a54c01,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,70,0,25,1200,2500,1.0,1.0
+236,692e1cba-9a8b-4904-b13b-a64bc1826dbb,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,71,0,25,1200,2500,1.0,1.0
+237,7a9342d5-902f-4e3e-b5cb-91a7bbafc5c2,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,72,0,25,1200,2500,0.9956,1.0
+238,8e43ce6d-5fc4-4602-9b6f-ca15ddedee66,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,73,0,26,1300,2500,1.0,1.0
+239,a0f44e5a-5ecd-4467-8c0b-d99654831e32,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,74,0,26,1300,2500,0.9828,1.0
+240,645d8e7a-aec4-4b04-a7b5-5f7c5cee9b4c,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,75,0,26,1300,2500,1.0,1.0
+241,4c4561e5-abe2-4c92-aa3a-60b0792de82f,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,76,0,27,1404,2500,1.0,1.0
+242,a3d087a3-6db7-48e5-8914-8cac1d99e29b,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,77,0,27,1404,2500,1.0,1.0
+243,f08e2d49-d864-4430-980b-980166e063e3,Benchmark Results - Quantum Fourier Transform (1) - Qiskit,78,0,27,1404,2500,1.0,1.0
+244,0c6cdedf-c4f4-4996-89da-98847a126c42,Benchmark Results - Monte Carlo Sampling (2) - Qiskit,0,0,4,96,2500,0.952958247092713,0.9982996688740622
+245,eb48d2a6-efce-4e2f-9464-73aa7bd4a7c4,Benchmark Results - Monte Carlo Sampling (2) - Qiskit,1,0,5,224,2500,0.7208371131623602,0.9956248581336492
+246,6528a897-757a-47d8-8fca-9f8b076fe78a,Benchmark Results - Monte Carlo Sampling (2) - Qiskit,2,0,6,478,2500,0.6397655273838642,0.9948468854100225
+247,8c9b1398-b48b-474e-b4a2-2142bc864aaa,Benchmark Results - Monte Carlo Sampling (2) - Qiskit,2,1,6,478,2500,0.5404009569359735,0.9948468854100225
+248,75c6d653-8abc-47e5-939c-4c37708ac2d2,Benchmark Results - Monte Carlo Sampling (2) - Qiskit,3,0,6,478,2500,0.9867188504232105,0.997204344309259
+249,68d59437-f275-4579-bbc0-cea2c40525e7,Benchmark Results - Monte Carlo Sampling (2) - Qiskit,3,1,6,478,2500,0.9801800161030593,0.997204344309259
+250,87523c3d-3889-4c99-9d04-0ac6a0171de2,Benchmark Results - Monte Carlo Sampling (2) - Qiskit,3,2,6,478,2500,0.9474527969027634,0.997204344309259
+251,c2beb60d-46a6-4cc9-9ca6-e926aadb59f9,Benchmark Results - Monte Carlo Sampling (2) - Qiskit,3,3,6,478,2500,0.9776695890196441,0.997204344309259
+252,29fd583b-97db-4cdb-8794-9bd8073b0d4c,Benchmark Results - Monte Carlo Sampling (2) - Qiskit,3,4,6,478,2500,0.9835569431223068,0.997204344309259
+253,3cfcda5e-8e6a-45d1-9720-44509a3a4fec,Benchmark Results - Monte Carlo Sampling (2) - Qiskit,3,5,6,478,2500,0.9553364140732136,0.997204344309259
+254,45352eb6-6e39-445b-86b8-beb5a16661e7,Benchmark Results - Monte Carlo Sampling (2) - Qiskit,3,6,6,478,2500,0.8550154567328109,0.997204344309259
+255,f3935fcf-56ba-436d-81b5-b7e20ded5dbc,Benchmark Results - Monte Carlo Sampling (2) - Qiskit,3,7,6,478,2500,0.9413277071454519,0.997204344309259
+256,c6ee54b6-1da8-4d76-b9ae-3a08f528b70d,Benchmark Results - Monte Carlo Sampling (2) - Qiskit,3,8,6,478,2500,0.98108669195013,0.997204344309259
+257,710e2708-051d-4d63-a492-68f2ef8a8d62,Benchmark Results - Monte Carlo Sampling (2) - Qiskit,3,9,6,478,2500,0.9817168099665897,0.997204344309259
